@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Roman — Full Stack Developer</h1>
+<h1 align="center">Hi there 👋, I'm Full Stack Developer</h1>
 <h3 align="center">Crafting fast, scalable and beautiful software solutions for over 5 years</h3>
 
 <p align="center">
